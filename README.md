@@ -7,5 +7,7 @@ DevOps な要素技術のハンズオンセミナーみたいなことができ�
 
 ## 参加登録フォーム
 作成してみました。
--[http://devops-okinawa.doorkeeper.jp/events/6568](DevOps Okinawa #1)
+
+- [DevOps Okinawa #1](http://devops-okinawa.doorkeeper.jp/events/6568)
+
 内容などについては今後詰めていければ、と考えています。また、これを発信して準備対応して頂けそうな方も募ってみようかなと思っていたりしています。
