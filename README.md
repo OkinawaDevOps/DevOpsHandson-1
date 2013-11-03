@@ -11,3 +11,11 @@ DevOps な要素技術のハンズオンセミナーみたいなことができ�
 - [DevOps Okinawa #1](http://devops-okinawa.doorkeeper.jp/events/6568)
 
 内容などについては今後詰めていければ、と考えています。また、これを発信して準備対応して頂けそうな方も募ってみようかなと思っていたりしています。
+
+## Vagrant 導入資料
+
+作成してみました。
+
+- [Vagrant 導入など](https://github.com/yamanetoshi/vagrant-chef-handson/blob/master/vagrant.md)
+
+コメント、あるいは PR など頂戴できると助かります。
