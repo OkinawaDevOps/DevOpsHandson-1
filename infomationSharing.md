@@ -50,6 +50,8 @@ IDCF さまから仮想リソースを提供頂いています。が、使用は
   - ポートはデフォルトから変更しています (詳細は当日案内します)
   - 鍵については事前に案内させて頂きます
 - 接続ユーザはパスワード入力無しで sudo できます
+- /usr/local 配下に rbenv を導入し、グーバルに使える状態になっています
+  - bundler 入れるの忘れていますのでそのあたりはよしなに、ということで m(__)m
 
 ## 資料の URL など
 
@@ -58,3 +60,6 @@ IDCF さまから仮想リソースを提供頂いています。が、使用は
 - [Vagrant + Chef Handson 材料](https://github.com/yamanetoshi/vagrant-chef-handson)
 - [Vagrant 導入など](https://github.com/yamanetoshi/vagrant-chef-handson/blob/master/vagrant.md)
 
+## もう少し
+
+実は GitHub に Organization を作っていたりしています。継続開催ご希望な方がいらっしゃいましたら、登録させて頂きますので、GitHub のアカウントをご教示頂ければ幸いです。
