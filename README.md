@@ -19,3 +19,9 @@ DevOps な要素技術のハンズオンセミナーみたいなことができ�
 - [Vagrant 導入など](https://github.com/yamanetoshi/vagrant-chef-handson/blob/master/vagrant.md)
 
 コメント、あるいは PR など頂戴できると助かります。
+
+## 情報共有
+
+当日、あるいは事前に共有しておくべき情報について以下に纏めておきます。
+
+- [情報共有](./infomationSharing.md)
